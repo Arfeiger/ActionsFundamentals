@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals
+# GitHub Actions Fundamentals 
 
 Repo for the `GitHub Actions Fundamentals` training.
 
@@ -20,7 +20,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ## 📆 Agenda
 
-### Day 1: 🚀 Getting started
+### Day 1:  Getting started
 
 - [ ] Introduction and Icebreaker
 - [ ] GitHub Actions Fundamentals
